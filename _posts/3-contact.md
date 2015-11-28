@@ -1,3 +1,10 @@
+---
+title: "contact"
+bg: black
+color: green
+style: center
+---
+
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 <style>
 ul {
