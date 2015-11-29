@@ -51,11 +51,13 @@
 /* #Basic Styles
 ================================================== */
 
-<link href='https://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+font-family: 'Lato', sans-serif;
 
 	body {
 		background: #fff;
-		font: 14px/21px 'Noto sans', sans-serif;
+		font: 14px/21px 'Lato', sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
