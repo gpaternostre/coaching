@@ -51,17 +51,13 @@
 /* #Basic Styles
 ================================================== */
 
-<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-
 	body {
 		background: #fff;
-  		font-family: 'Lato', sans-serif;
-		font: 14px/21px 'Lato', sans-serif;
+		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
-
 
 /* #Typography
 ================================================== */
