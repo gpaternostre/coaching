@@ -1,3 +1,3 @@
 
 
-This site uses the [SinglePaged theme](https://github.com/t413/SinglePaged)
+© 2015 G.J.G. Paternostre
