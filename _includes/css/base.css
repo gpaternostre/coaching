@@ -20,7 +20,12 @@
 	#Buttons
 	#Forms
 	#Misc */
-
+	
+/* Language selector
+==================================================*/
+.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+    font-weight: bold;
+}
 
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
