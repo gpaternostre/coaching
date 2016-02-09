@@ -57,3 +57,6 @@ defaults:
     values:
       layout: default
       lang: jp
+
+### permalink
+permalink: /:title/
