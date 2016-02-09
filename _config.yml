@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title/ ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -58,5 +58,3 @@ defaults:
       layout: default
       lang: jp
 
-### permalink
-permalink: /:title/
