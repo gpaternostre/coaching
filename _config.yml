@@ -37,3 +37,23 @@ colors:
 kramdown:
   auto_ids:  false
 
+### miltilingual selector
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/nl
+    values:
+      layout: default
+      lang: nl
+  -
+    scope:
+      path: _posts/jp
+    values:
+      layout: default
+      lang: jp
